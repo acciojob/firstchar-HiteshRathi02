@@ -1,4 +1,4 @@
-function firstChar(text) {
+function firstChar(str) {
  str = str.trim();
   if (str.length === 0) {
     return '';
